@@ -1,12 +1,21 @@
-## Hi there 👋
+# FiveStackDev 🚀  
+**Innovating Through Code**  
 
-<!--
+Welcome to **FiveStackDev**, a team of passionate developers from Sri Lanka, dedicated to crafting modern and efficient software solutions.  
 
-**Here are some ideas to get you started:**
+## 🌟 About Us  
+We specialize in developing high-performance, scalable, and user-friendly applications using the latest technologies.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🛠️ Tech Stack  
+🚀 **Frontend:** HTML, CSS, JavaScript, React, Material-UI, Tailwind CSS, Bootstrap  
+⚙️ **Backend & APIs:** Ballerina  
+🎨 **Design & Prototyping:** Figma  
+🛠️ **Development Tools:** VS Code  
+
+## 📌 Our Projects  
+🔹 **[ResourceHub](https://github.com/FiveStackDev/Resource_Hub)** - A smart resource management system for organizations, streamlining asset tracking, maintenance scheduling, and resource requests.  
+
+## 🤝 Connect With Us  
+💬 We love collaboration! Feel free to reach out.  
+📧 **Contact us at:** <!-- [your-email@example.com] -->  
+🌍 **Follow us:** <!-- [LinkedIn](#) | [Twitter](#) --> 
